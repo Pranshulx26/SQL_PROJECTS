@@ -46,7 +46,7 @@ The dataset includes information about the oldest companies in various countries
 - Business Insights
 
 ### How to View the Project
-- [Explore Analysis of the World's Oldest Businesses]([https://github.com/pranshulx26/SQL_PROJECTS/tree/main/worlds_oldest_businesses](https://github.com/Pranshulx26/SQL_PROJECTS/tree/main/analysis_of_the_worlds_oldest_businesses))
+- [Explore Analysis of the World's Oldest Businesses]([(https://github.com/Pranshulx26/SQL_PROJECTS/tree/main/analysis_of_the_worlds_oldest_businesses)])
 
 ---
 
