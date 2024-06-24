@@ -21,7 +21,7 @@ We'll be working with data provided by the United States Social Security Adminis
 - Data Visualization
 
 ### How to View the Project
-- [Explore Classic American Names Analysis](https://github.com/your-username/data_analysis---sql_projects/tree/main/classic_american_names)
+- [Explore Classic American Names Analysis](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)
 
 ---
 
