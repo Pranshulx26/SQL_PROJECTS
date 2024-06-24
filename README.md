@@ -11,7 +11,7 @@ How have American baby name tastes changed since 1920? Which names have remained
 We'll be working with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. The dataset spans 101 years, from 1920 through 2020. We've limited the dataset to first names given to over 5,000 American babies in a given year for processing speed.
 
 ### Project Structure
-- `notebook.ipynb`: Jupyter notebook containing the analysis.
+- `analysis_classic_american_names.ipynb`: Jupyter notebook containing the analysis.
 - `datasets/`: Folder containing datasets used in the analysis.
 - `images/`: Folder containing images used in the README.
 
@@ -36,7 +36,7 @@ An important aspect of business is longevity and adaptability to changing market
 The dataset includes information about the oldest companies in various countries, highlighting their industries and ages.
 
 ### Project Structure
-- `notebook.ipynb`: Jupyter notebook containing the analysis.
+- `analysis_worlds_oldest_businesses.ipynb`: Jupyter notebook containing the analysis.
 - `datasets/`: Folder containing datasets used in the analysis.
 - `images/`: Folder containing images used in the README.
 
@@ -46,7 +46,7 @@ The dataset includes information about the oldest companies in various countries
 - Business Insights
 
 ### How to View the Project
-- [Explore Analysis of the World's Oldest Businesses]([(https://github.com/Pranshulx26/SQL_PROJECTS/tree/main/analysis_of_the_worlds_oldest_businesses)])
+- [Explore Analysis of the World's Oldest Businesses](https://github.com/your-username/data_analysis---sql_projects/tree/main/worlds_oldest_businesses)
 
 ---
 
