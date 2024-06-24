@@ -27,7 +27,7 @@ We'll be working with data provided by the United States Social Security Adminis
 
 ## 2. Analysis of the World's Oldest Businesses
 
-![Oldest Businesses]([images/oldest_businesses.jpg](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/analysis_of_the_worlds_oldest_businesses/datasets/400px-Eingang_zum_St._Peter_Stiftskeller.jpg))
+![Oldest Businesses]([analysis_of_the_worlds_oldest_businesses/datasets/400px-Eingang_zum_St._Peter_Stiftskeller.jpg])
 
 ### Overview
 An important aspect of business is longevity and adaptability to changing market conditions. Some businesses survive for centuries. In this project, we explore a dataset compiled by BusinessFinancing.co.uk, which researched the oldest companies still in operation in almost every country.
