@@ -50,8 +50,33 @@ The dataset includes information about the oldest companies in various countries
 
 ---
 
+## 3. Improving Profitability through Enhanced Occupancy Rate Analysis
+
+![Airplane](Airline_Data_Analysis/airplane.jpg)
+
+### Overview
+The project aims to enhance profitability in air transportation by analyzing and optimizing the occupancy rates of various aircraft types. By leveraging SQL-based analysis, we explore strategies to increase seat occupancy and thereby improve revenue per flight.
+
+### Dataset
+The analysis utilizes a dataset from the company’s database, focusing on flight occupancy rates, ticket bookings, revenue per ticket, and pricing strategies.
+
+### Project Structure
+- `Airlines_Data_Analysis.ipynb`: Jupyter notebook containing the SQL-based analysis.
+- `Analysis_report.ipynb`: Jupyter notebook containing the detailed report and visualizations.
+- `Datasets/`: Folder containing datasets used in the analysis.
+- `report_images/`: Folder containing images used in the report.
+
+### Key Skills
+- SQL Data Analysis
+- Revenue Optimization
+- Pricing Strategy
+
+### How to View the Project
+- [Explore Occupancy Rate Analysis](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/Airline_Data_Analysis)
+
+---
+
 ### Additional Notes
 - Feel free to explore each project folder to dive deeper into the analyses.
 - Contributions and feedback are welcome via GitHub issues and pull requests.
 - Connect with me on LinkedIn for more projects and collaborations.
-
