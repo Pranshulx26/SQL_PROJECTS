@@ -94,7 +94,6 @@ The analysis uses a dataset from the pizza sales database, focusing on order det
 ### Key Skills
 - Data Analysis
 - Business Insights
-- Visualizations
 
 ### How to View the Project
 - [Explore Pizza Sales Analysis](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/pizza_sales/pizza_sales.ipynb)
