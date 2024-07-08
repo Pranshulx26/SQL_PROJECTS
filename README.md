@@ -78,7 +78,7 @@ The analysis utilizes a dataset from the company’s database, focusing on fligh
 
 ## 4. Analysis of Pizza Sales
 
-![Pizza](images/pizza.jpg)
+![Pizza](pizza_sales/images/pizza.jpg)
 
 ### Overview
 This project delves into analyzing pizza sales data to uncover insights that drive business decisions. We explore aspects such as total orders, revenue generation, popular pizza types, and more.
