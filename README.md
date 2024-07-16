@@ -76,6 +76,30 @@ The analysis utilizes a dataset from the company’s database, focusing on fligh
 
 ---
 
+## 4. Analysis of Pizza Sales
+
+![Pizza](pizza_sales/images/pizza.jpg)
+
+### Overview
+This project delves into analyzing pizza sales data to uncover insights that drive business decisions. We explore aspects such as total orders, revenue generation, popular pizza types, and more.
+
+### Dataset
+The analysis uses a dataset from the pizza sales database, focusing on order details, pizza types, sizes, and pricing information.
+
+### Project Structure
+- `pizza_sales.ipynb`: Jupyter notebook containing the analysis of pizza sales.
+- `Datasets/`: Folder containing datasets used in the analysis.
+- `images/`: Folder containing images used in the README.
+
+### Key Skills
+- Data Analysis
+- Business Insights
+
+### How to View the Project
+- [Explore Pizza Sales Analysis](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/pizza_sales/pizza_sales.ipynb)
+
+---
+
 ### Additional Notes
 - Feel free to explore each project folder to dive deeper into the analyses.
 - Contributions and feedback are welcome via GitHub issues and pull requests.
