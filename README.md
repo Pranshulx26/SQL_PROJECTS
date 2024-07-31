@@ -99,6 +99,29 @@ The analysis uses a dataset from the pizza sales database, focusing on order det
 - [Explore Pizza Sales Analysis](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/pizza_sales/pizza_sales.ipynb)
 
 ---
+## 5. Comprehensive Online Retail Analysis
+
+![Retail Sales](Northwind/sales.jpg)
+
+### Overview
+This project provides a detailed analysis of an online retail dataset. We explore various aspects such as total sales by year, top products, customer purchasing behavior, sales trends by region, and more. The analysis aims to uncover insights that can help improve business strategies and decision-making processes.
+
+### Dataset
+The analysis uses a dataset from an online retail database, focusing on order details, product information, customer data, and sales records.
+
+### Project Structure
+- `Untitled.ipynb`: Jupyter notebook containing the analysis.
+- `Datasets/`: Folder containing datasets used in the analysis.
+- `images/`: Folder containing images used in the README.
+
+### Key Skills
+- Data Analysis
+- Sales Trends Analysis
+- Customer Behavior Insights
+
+### How to View the Project
+- [Explore Comprehensive Online Retail Analysis](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/Northwind/Untitled.ipynb)
+---
 
 ### Additional Notes
 - Feel free to explore each project folder to dive deeper into the analyses.
