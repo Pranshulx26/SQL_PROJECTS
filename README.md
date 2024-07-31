@@ -36,7 +36,7 @@ Conduct a thorough analysis of an online retail dataset. Explore sales trends, c
 
 Analyze the causes and patterns of failed orders at Gett. This project investigates rejection reasons, cancellation trends, and distribution patterns to enhance service reliability and customer satisfaction.
 
-- [Explore Project](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/Insights_from_Failed_Orders/Failed_Orders_Analysis.ipynb)
+- [Explore Project](https://github.com/Pranshulx26/SQL_PROJECTS/blob/main/Insights_From_Failed_Orders/Failed_Orders_Analysis.ipynb)
 
 ---
 
