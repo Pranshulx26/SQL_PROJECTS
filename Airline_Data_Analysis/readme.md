@@ -4,7 +4,7 @@
 
 This project focuses on enhancing profitability in air transportation by analyzing aircraft occupancy rates. By leveraging SQL-based analysis, we aim to identify strategies to improve seat occupancy, optimize pricing strategies, and ultimately increase revenue per flight. The insights derived from this analysis are designed to assist airline companies in making data-driven decisions to enhance their operational efficiency and profitability.
 
-![Airplane](Airline_Data_Analysis/airplane.jpg)
+![Airplane](airplane.jpg)
 
 ## Objectives
 
