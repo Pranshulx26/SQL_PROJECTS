@@ -52,12 +52,6 @@ The dataset used in this analysis is sourced from the United States Social Secur
 - Analyzed recent trends to identify emerging popular names.
 - Discussed potential factors influencing contemporary naming practices.
 
-## Visualizations
-
-- **Name Popularity Over Time**: Graphs showing how the popularity of specific names has changed.
-- **Top Names by Decade**: Visualizations of the most popular names for each decade.
-- **Timeless Names**: A focus on names that have remained consistently popular.
-
 ## How to View the Project
 
 You can explore the detailed analysis in the Jupyter notebook:
