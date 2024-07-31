@@ -1,4 +1,5 @@
 # Insights from Failed Orders Project
+![Taxi]("taxi.jpg")
 
 Welcome to the "Insights from Failed Orders" project! This repository contains an in-depth analysis of order failures at Gett, a leading Ground Transportation Management platform. This project is designed to uncover the underlying causes of order failures and provide actionable insights to improve operational efficiency and customer satisfaction.
 
